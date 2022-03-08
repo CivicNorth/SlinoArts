@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SlinoArts
+- 👀 I’m interested in learning and growing my skills
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on fun productive projects
+- 📫 How to reach me Slinoarts@gmail.com
